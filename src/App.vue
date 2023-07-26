@@ -1,4 +1,5 @@
 <template>
+  
   <main class="app">
     <section class="greeting">
       <h2 class="title">
@@ -47,6 +48,10 @@
       </div>
     </section>
   </main>
+
+  <div>
+    <!-- <img src="./assets/kh.jpg" alt=""> -->
+  </div>
 </template>
 
 <script setup>
